@@ -69,3 +69,24 @@ Goals:
 - preserve accessibility and performance.
 
 Social content must never bypass editorial validation or media-rights rules.
+
+
+## Living experience revision
+
+The next Site rebuild should reinterpret the Homepage as a living APAE experience.
+
+Priority concepts:
+1. joyful human Hero with brand-derived organic language;
+2. a prominent user-intent gateway such as "Como podemos ajudar você hoje?";
+3. high-level areas of work with human language;
+4. "Acontece na APAE" as the future living editorial/campaign/event surface;
+5. stories centered on agency and protagonism;
+6. rights/inclusion content in plain language;
+7. family/community participation;
+8. clear ways to participate/help;
+9. transparency and institutional trust;
+10. final belonging-oriented CTA.
+
+The precise section order may be recomposed during the new proposal build if it improves usability and visual rhythm, provided Foundation product obligations remain represented.
+
+Do not copy APAE Brasil layout or component structure.
