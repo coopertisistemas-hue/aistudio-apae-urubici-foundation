@@ -10,6 +10,7 @@ Canonical map of the APAE Urubici Foundation. Authority order and product contex
 
 ## 01 — Discovery
 - [Benchmark Research](01-discovery/BENCHMARK_RESEARCH.md)
+- [APAE Brasil — Experience Reference](01-discovery/APAE_BRASIL_REFERENCE_RESEARCH.md)
 - [Digital Inventory](01-discovery/DIGITAL_INVENTORY.md)
 
 ## 02 — Product
