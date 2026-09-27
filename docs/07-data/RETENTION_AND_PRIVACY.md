@@ -20,5 +20,8 @@ Do not store raw card data. Rely on payment providers for regulated payment deta
 ## Logs
 Avoid placing sensitive personal data or secrets in application logs.
 
+## Analytics
+Any analytics must be privacy-respecting and consent-gated where non-essential (see CONSENT_MODEL, DD-13). Prefer aggregate, non-identifying measurement.
+
 ## Policy
-A final LGPD/privacy policy and retention schedule must be reviewed before production certification.
+A final LGPD/privacy policy and retention schedule must be reviewed before production certification. A data-subject-rights workflow (access/deletion/portability) is deferred (DD-45).

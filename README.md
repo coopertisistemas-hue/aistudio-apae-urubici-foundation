@@ -18,6 +18,10 @@ Authority order:
 3. Readdy execution instructions
 4. Implementation code
 
+## Documentation index
+
+See [docs/INDEX.md](docs/INDEX.md) for the full map of Foundation documents. Deferred decisions are tracked in [docs/00-governance/DEFERRED_DECISIONS.md](docs/00-governance/DEFERRED_DECISIONS.md).
+
 ## Current baseline
 
 **W00B — Consolidated Product Contract**
@@ -36,6 +40,10 @@ The Foundation now covers:
 - Portal Urubici, payments, email, WhatsApp and Meta integration contracts;
 - mobile, accessibility, performance, security and production certification gates;
 - delivery roadmap.
+
+**W00C — Independent Foundation Audit**
+
+The Foundation has been independently audited (see [docs/12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md](docs/12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md)): no P0 blockers, no unresolved contradictions, certified for entry into W01.
 
 ## Important pending institutional decisions
 

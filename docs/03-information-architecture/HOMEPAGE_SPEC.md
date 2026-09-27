@@ -24,7 +24,7 @@ Approved social proof. No unmoderated content.
 Latest institutional publications.
 
 ## 8. Inclusion & Human Development
-Curated editorial bridge to Portal Urubici, especially Aline Liz content when tagged/approved for this axis.
+Curated editorial bridge to Portal Urubici for this axis. Any specific Portal editorial identity referenced for this axis (e.g. "Aline Liz") must be validated for identity, ownership and approval-to-surface before implementation (see Deferred Decisions Register: DD-10). Until validated, surface Portal content generically by the Inclusion & Human Development tag/approval only.
 
 ## 9. How to help
 Donation, volunteering, partnership and advocacy/sharing paths.
