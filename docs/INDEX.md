@@ -91,3 +91,8 @@ Canonical map of the APAE Urubici Foundation. Authority order and product contex
 - [Measurement and Success Metrics](12-delivery/MEASUREMENT_AND_SUCCESS_METRICS.md)
 - [W00B Closure Report](12-delivery/W00B_CLOSURE_REPORT.md)
 - [W00C Foundation Independent Audit Report](12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md)
+- [W01 Institutional Validation Plan](12-delivery/W01_INSTITUTIONAL_VALIDATION_PLAN.md)
+- [W01 APAE Interview Checklist](12-delivery/W01_APAE_INTERVIEW_CHECKLIST.md)
+- [W01 Validation Matrix](12-delivery/W01_VALIDATION_MATRIX.md)
+- [W01 Content Acquisition Manifest](12-delivery/W01_CONTENT_ACQUISITION_MANIFEST.md)
+- [W01 Readiness Report Template](12-delivery/W01_READINESS_REPORT_TEMPLATE.md)
