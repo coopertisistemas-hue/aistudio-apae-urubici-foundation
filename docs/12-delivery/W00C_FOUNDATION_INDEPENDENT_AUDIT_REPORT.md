@@ -65,7 +65,7 @@ This audit is scoped exclusively to the canonical documentation Foundation of th
 | ID | Finding | Impact | Resolution |
 |----|---------|--------|------------|
 | P1-1 | Analytics/cookie/embed consent was not addressed in the consent/privacy model, despite social embeds and future analytics. | LGPD exposure; consent design gap. | **REMEDIATED** — added analytics/cookie consent to `CONSENT_MODEL.md` and cross-reference in `RETENTION_AND_PRIVACY.md`. |
-| P1-2 | No measurement/success-metrics foundation (donation conversion, retention, cadence, privacy-first analytics). | Cannot evidence product/business value or monetization; analytics-consent linkage missing. | **REMEDIATED** — created `docs/12-delivery/MEASUREMENT_AND_SUCCESS_METRICS.md`; numeric targets deferred (DD-12). |
+| P1-2 | No measurement/success-metrics foundation (donation conversion, retention, cadence, privacy-first analytics). | Cannot evidence institutional reach, fundraising outcomes or product value; analytics-consent linkage missing. | **REMEDIATED** — created `docs/12-delivery/MEASUREMENT_AND_SUCCESS_METRICS.md`; numeric targets deferred (DD-12). |
 | P1-3 | Specific unvalidated editorial identity ("Aline Liz") embedded in `HOMEPAGE_SPEC.md` §8 without a deferral marker. | Risk of unvalidated named entity flowing into implementation; breaks deferral discipline. | **REMEDIATED** — marked pending validation (DD-10); generic sourcing until confirmed. |
 
 ### P2 — Medium
@@ -123,7 +123,8 @@ Proceed to **W01 — Institutional Validation and Content Acquisition**, driven 
 
 FOUNDATION_AUDIT: COMPLETE
 STARTING_HEAD: 9d400784f6ea1ec35f793e827e76cbdf84428cea
-FINAL_HEAD: 21a7f770e5ceb9e614f253d6046a2705cea1aa9b (audit-content commit; branch tip advances by one SHA-recording commit)
+AUDIT_CONTENT_COMMIT: 21a7f770e5ceb9e614f253d6046a2705cea1aa9b
+CLOSURE_NOTE: The subsequent metadata-only commit records the audit-content SHA; use the current branch ref as the canonical integration candidate.
 P0_COUNT: 0
 P1_COUNT: 3
 P2_COUNT: 8
