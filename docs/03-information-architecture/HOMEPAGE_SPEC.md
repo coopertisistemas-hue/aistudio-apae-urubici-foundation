@@ -49,12 +49,32 @@ Clear one-time/monthly support CTA and payment options when enabled.
 
 ## 11. Partners
 Premium recognition section immediately before the closing page area/near footer. Calm, respectful and non-advertorial.
+- Partner logos and cards link directly to corresponding profiles on Portal Urubici (`portal_profile_url`).
+- When `portal_profile_url` is absent or unvalidated, cards and logos fail closed or render non-clickable.
 
-## 12. Final CTA
+## 12. FAQ (Frequently Asked Questions)
+Accessible interactive accordion addressing common community, family, and supporter questions based on verified public APAE policies and fail-closed operational guidance.
+
+## 13. Location & Access Block
+Lightweight institutional address card and directions CTA grounded in verified public evidence:
+- Confirmed address: `Rua Clarismundo José Custódio, 980 — Centro — Urubici/SC — CEP 88650-000`.
+- External directions via Google Maps search/directions URL.
+- Operating hours and physical accessibility details fail closed as "em validação institucional" until confirmed by APAE leadership.
+
+## 14. Final CTA
 Human institutional message and next action.
 
-## 13. Footer
-Institutional contacts, social links, transparency, policies, accessibility and discreet Urubici Connect technology-partner credential.
+## 15. Footer
+Institutional contacts, social links, transparency, policies, accessibility and discreet Urubici Connect technology credential.
+- Exact localized footer credit: `Tecnologia por Urubici Connect` (pt-BR) / `Technology by Urubici Connect` (en) / `Tecnología por Urubici Connect` (es) / `Technologie von Urubici Connect` (de).
+- Primary URL destination: `https://urubiciconnect.com.br`.
+
+## 16. Families & Development (Recurso e Orientação)
+Dedicated editorial and resource area focused on supporting families, caregivers, and community inclusion:
+- Positioned as an editorial/guidance/resource hub rather than operational clinical service claims.
+- 6 core pillars: Aprender & desenvolver, Autonomia no dia a dia, Direitos & inclusão, Escola & família, Cuidar de quem cuida, Vida em comunidade.
+- Clear pathway to `/familias` repository.
+
 
 
 ## Social/digital immersion
