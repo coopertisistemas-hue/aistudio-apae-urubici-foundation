@@ -24,7 +24,7 @@ See [docs/INDEX.md](docs/INDEX.md) for the full map of Foundation documents. Def
 
 ## Current baseline
 
-**W00B — Consolidated Product Contract**
+**W00C — Independently Audited Foundation Baseline**
 
 The Foundation now covers:
 - governance and Definition of Done;
@@ -41,9 +41,9 @@ The Foundation now covers:
 - mobile, accessibility, performance, security and production certification gates;
 - delivery roadmap.
 
-**W00C — Independent Foundation Audit**
+**Independent Foundation Audit**
 
-The Foundation has been independently audited (see [docs/12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md](docs/12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md)): no P0 blockers, no unresolved contradictions, certified for entry into W01.
+The W00C baseline has been independently audited (see [docs/12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md](docs/12-delivery/W00C_FOUNDATION_INDEPENDENT_AUDIT_REPORT.md)): no P0 blockers, no unresolved contradictions, certified for entry into W01.
 
 ## Important pending institutional decisions
 
