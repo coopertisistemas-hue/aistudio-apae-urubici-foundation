@@ -34,3 +34,15 @@ Use one row per canonical institutional decision.
 ## Completion
 
 W01 can close when all W01-owned decisions are VALIDATED, NOT_APPLICABLE or DEFERRED_ACCEPTED with a clear non-blocking rationale.
+
+
+## W01R-02 evidence carry-forward
+
+| Topic | Public evidence status | Institutional gate |
+|---|---|---|
+| CNES 5420660 / CNPJ linkage | confirmed public registry evidence | confirm production wording with APAE |
+| Social Assistance / SUAS | confirmed official-government evidence | confirm local delivery/access details |
+| Convention 009/2026 vehicle support | confirmed municipal evidence | confirm current operational/public guidance |
+| Escola Pe. José Gonçalves Espíndola / AEE | recent official FNDE evidence exists | confirm APAE-school relationship, current delivery and access flow |
+| Festival Nossa Arte | confirmed municipal event evidence | confirm recurrence and media/name reuse rights |
+| Instagram / Facebook candidates | unverified | confirm ownership before linking |
