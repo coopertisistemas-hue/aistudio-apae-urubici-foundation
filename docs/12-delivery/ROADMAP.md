@@ -33,3 +33,16 @@ Independent audit, remediation and production certification.
 
 ## Presentation
 Executive presentation should use real product/screenshots whenever possible rather than promises or speculative mockups.
+
+
+## W01R — Institutional & Digital Research
+
+Before Phase 2 content hardening:
+- validate the public-evidence baseline;
+- inventory current social/digital content;
+- confirm current services and institutional contacts;
+- classify media rights/consent;
+- certify accessibility/content requirements;
+- update Site execution docs only after independent validation.
+
+W01R does not authorize publishing unresolved institutional claims as production truth.
