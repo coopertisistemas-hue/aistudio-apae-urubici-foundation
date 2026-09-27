@@ -24,6 +24,11 @@ W01R research-backed validation framework:
 
 These labels are proposed taxonomy only until APAE confirms the current service catalogue.
 
+W01R-02 evidence note:
+- Education & Development now has recent public education/AEE evidence connected to Escola Pe. José Gonçalves Espíndola in Urubici;
+- the APAE-school legal/operational relationship and current access model still require APAE confirmation;
+- therefore the Home may preserve Education as a proposal axis, but must not present detailed school/AEE operations as certified APAE service truth.
+
 ## 5. Projects and campaigns
 Current priority initiatives with image, concise purpose, status and CTA.
 
