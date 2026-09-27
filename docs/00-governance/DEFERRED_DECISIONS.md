@@ -25,6 +25,7 @@ Owner legend: `APAE` (institutional validation) · `DESIGN` (design-system autho
 | DD-11 | Final LGPD/privacy policy, retention schedule, and `/privacidade` `/termos` `/acessibilidade` published content | LEGAL / APAE | OPEN | RETENTION_AND_PRIVACY; sitemap |
 | DD-12 | Business success targets (donation conversion, recurring retention, cadence) — numeric goals | APAE | OPEN | MEASUREMENT_AND_SUCCESS_METRICS |
 | DD-13 | Analytics tool choice and consent-banner copy | APAE / LEGAL | OPEN | CONSENT_MODEL; MEASUREMENT_AND_SUCCESS_METRICS |
+| DD-14 | Final Libras/deaf-access delivery model for high-value public content | APAE / DESIGN / PLATFORM / LEGAL | OPEN | ACCESSIBILITY; Brazilian Libras/accessibility context |
 
 ## Design finalization — target wave W02
 
