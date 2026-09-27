@@ -14,6 +14,16 @@ Validated indicators only. Numbers must be Admin-managed and may be hidden until
 ## 4. Areas of work
 Visual cards for approved service/mission areas. Each leads to its own detail page.
 
+W01R research-backed validation framework:
+- Education and Development;
+- Health and Rehabilitation;
+- Social Assistance and Families;
+- Rights, Autonomy and Inclusion;
+- Art, Culture and Talents;
+- Community and Participation.
+
+These labels are proposed taxonomy only until APAE confirms the current service catalogue.
+
 ## 5. Projects and campaigns
 Current priority initiatives with image, concise purpose, status and CTA.
 
@@ -40,3 +50,17 @@ Human institutional message and next action.
 
 ## 13. Footer
 Institutional contacts, social links, transparency, policies, accessibility and discreet Urubici Connect technology-partner credential.
+
+
+## Social/digital immersion
+
+The Home should eventually include a lightweight "Acontece na APAE" / current-activity layer driven by validated institutional publications.
+
+Goals:
+- demonstrate current institutional life;
+- connect news, events, projects and community participation;
+- link to verified social posts when useful;
+- avoid heavy third-party social embeds as a core dependency;
+- preserve accessibility and performance.
+
+Social content must never bypass editorial validation or media-rights rules.
