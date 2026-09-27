@@ -93,6 +93,7 @@ Canonical map of the APAE Urubici Foundation. Authority order and product contex
 ## 12 — Delivery
 
 - [W01R — Institutional & Digital Research Baseline](12-delivery/W01R_INSTITUTIONAL_DIGITAL_RESEARCH.md)
+- [W01R-02 — Evidence Consolidation](12-delivery/W01R02_EVIDENCE_CONSOLIDATION.md)
 - [Roadmap](12-delivery/ROADMAP.md)
 - [Measurement and Success Metrics](12-delivery/MEASUREMENT_AND_SUCCESS_METRICS.md)
 - [W00B Closure Report](12-delivery/W00B_CLOSURE_REPORT.md)
