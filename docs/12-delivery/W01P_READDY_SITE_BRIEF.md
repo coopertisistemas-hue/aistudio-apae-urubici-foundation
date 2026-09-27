@@ -145,3 +145,33 @@ The proposal is acceptable only if:
 - design feels premium;
 - modules align with Foundation;
 - provisional design decisions remain reversible.
+
+
+## Brand identity update
+
+The supplied APAE Urubici logo is now the visual anchor for proposal implementation.
+
+Readdy must evolve the proposal toward a digital brand system derived from the logo:
+- sunflower/golden yellow;
+- leaf green and deeper accessible green;
+- warm gray;
+- ivory/off-white;
+- charcoal.
+
+Prepare for a revitalized digital logo treatment and favicon while preserving the flower, hands, stem/leaves and institutional essence.
+
+Fraunces + Manrope is the current W01P proposal typography standard.
+
+Do not treat the current terracotta/moss palette as protected. It should be migrated toward the logo-derived palette while preserving the existing premium composition.
+
+## Multilingual requirement
+
+The public Site must be multilingual by default with:
+- pt-BR (default);
+- English;
+- Spanish;
+- German.
+
+Provide an accessible language selector in desktop header and mobile navigation.
+
+The proposal may keep Portuguese as the only fully authored language initially, but the architecture must support all four locales without duplicating page logic.
