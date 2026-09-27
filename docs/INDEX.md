@@ -96,3 +96,5 @@ Canonical map of the APAE Urubici Foundation. Authority order and product contex
 - [W01 Validation Matrix](12-delivery/W01_VALIDATION_MATRIX.md)
 - [W01 Content Acquisition Manifest](12-delivery/W01_CONTENT_ACQUISITION_MANIFEST.md)
 - [W01 Readiness Report Template](12-delivery/W01_READINESS_REPORT_TEMPLATE.md)
+- [W01P Proposal Site Mode](12-delivery/W01P_PROPOSAL_SITE_MODE.md)
+- [W01P Readdy Site Brief](12-delivery/W01P_READDY_SITE_BRIEF.md)
