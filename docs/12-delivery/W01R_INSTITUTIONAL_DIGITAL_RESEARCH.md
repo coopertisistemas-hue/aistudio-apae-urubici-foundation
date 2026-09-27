@@ -122,7 +122,7 @@ Proposed communication axes for validation:
 
 1. **Education and Development**
    Learning, development, pedagogical support and individual potential.
-   **Gate:** statutory basis only at this stage; current delivery model and school relationship remain unconfirmed.
+   **Evidence update (W01R-02):** official FNDE/FUNDEB records support recent education/AEE activity for Escola Pe. José Gonçalves Espíndola (INEP 42119995) in Urubici. The exact legal/operational relationship with APAE Urubici, current delivery model and access flow remain institutionally unconfirmed.
 
 2. **Health and Rehabilitation**
    Multidisciplinary support, rehabilitation, wellbeing and autonomy, integrated with the public-health network where applicable.
@@ -236,3 +236,18 @@ Any publicly reachable W01P deployment must be explicitly verified for:
 - no accidental canonical production metadata.
 
 Verification must be repeated after deploy changes that affect HTML metadata or routing.
+
+
+## W01R-02 evidence consolidation
+
+See:
+`docs/12-delivery/W01R02_EVIDENCE_CONSOLIDATION.md`
+
+This consolidation adds re-opened primary-source evidence for:
+- CNES identity;
+- CEAS/SUAS role;
+- Convention 009/2026;
+- recent education/AEE records;
+- Festival Nossa Arte event evidence.
+
+It does not resolve the remaining APAE-owned deferred decisions.
