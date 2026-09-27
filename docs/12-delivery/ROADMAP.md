@@ -46,3 +46,14 @@ Before Phase 2 content hardening:
 - update Site execution docs only after independent validation.
 
 W01R does not authorize publishing unresolved institutional claims as production truth.
+
+
+## W01 / W01P / W01R relationship
+
+- **W01** remains the authoritative institutional-validation and content-acquisition wave.
+- **W01P** is the controlled proposal-site exception that allows reversible visual implementation before W01 is fully closed.
+- **W01R** is the evidence/research sub-wave used to strengthen W01 inputs before content hardening.
+
+W01R does not replace W01.
+W01P does not certify institutional facts.
+W02 finalizes approved design/content architecture only after the applicable W01/W01R decisions are validated.
