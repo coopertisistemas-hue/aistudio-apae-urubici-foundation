@@ -60,3 +60,35 @@ Can be implemented after first production release without redesigning the archit
 - uncontrolled AI-generated institutional claims;
 - exposing sensitive beneficiary information;
 - public access to financial operational details beyond approved transparency content.
+
+
+## Institutional digital-positioning objective
+
+The Public Site is not merely a brochure website.
+
+It should become APAE Urubici's authoritative digital institutional hub for:
+- inclusion and human development;
+- services and areas of work;
+- rights and accessibility information;
+- family/community orientation;
+- health, education and social-assistance context;
+- projects, events and institutional news;
+- transparency;
+- volunteering, partnership and donation;
+- accessible connection to verified social channels.
+
+The Site should strengthen APAE Urubici's presence in Urubici and its validated service/community reach while avoiding unsupported regional claims.
+
+Social networks complement the Site as distribution and community channels; they do not replace authoritative institutional content.
+
+### Research-backed content axes pending institutional confirmation
+
+Current public evidence supports using the following as the preferred validation framework:
+- Education and Development;
+- Health and Rehabilitation;
+- Social Assistance and Families;
+- Rights, Autonomy and Inclusion;
+- Art, Culture and Talents;
+- Community and Participation.
+
+These labels remain subject to APAE confirmation before being treated as final production taxonomy.
