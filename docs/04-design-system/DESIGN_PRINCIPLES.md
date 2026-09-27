@@ -27,3 +27,35 @@ Logo revitalization must preserve the recognizable institutional symbolism while
 ## Premium quality
 
 Premium does not mean visual excess. It means excellent hierarchy, spacing, typography, media treatment, interaction quality and consistency.
+
+
+## Living APAE direction
+
+APAE Brasil is an official conceptual reference for energy, institutional life, protagonism, campaigns, family/community participation and rights communication.
+
+It is NOT a layout-copy reference.
+
+The APAE Urubici digital experience must be:
+- joyful without becoming childish;
+- playful without infantilizing;
+- colorful without overload;
+- premium without coldness;
+- warm without pity;
+- alive without becoming chaotic;
+- accessible by design.
+
+Use brand-derived organic forms — petals, leaves, curves, circles and growth motifs — as a coherent visual grammar.
+
+Target balance:
+- approximately 70% premium institutional/editorial discipline;
+- approximately 30% joy, play, motion, surprise and visual warmth.
+
+Avoid:
+- generic NGO templates;
+- SaaS/dashboard composition;
+- excessive card grids;
+- sterile editorial minimalism;
+- nursery-school aesthetics;
+- pity imagery;
+- cartoon stereotypes of disability;
+- accessibility overlays as a substitute for accessible implementation.
