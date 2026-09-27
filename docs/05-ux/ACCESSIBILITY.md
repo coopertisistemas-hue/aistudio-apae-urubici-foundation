@@ -177,3 +177,32 @@ Before production certification, key journeys require:
 For key public journeys, production certification must include planned validation with users and/or reviewers with relevant assistive-technology, cognitive-accessibility or disability expertise; this is not optional when the journey is essential.
 
 Accessibility findings are release blockers when they prevent access to essential institutional information or key journeys.
+
+
+## Accessibility as visible product language
+
+For the next Site rebuild, accessibility must shape the experience visibly, not sit behind the interface as a compliance layer.
+
+Design for:
+- people with intellectual/cognitive disabilities;
+- people with low digital literacy;
+- screen-reader users;
+- keyboard-only users;
+- people using zoom/reflow;
+- people with motor limitations;
+- deaf/hard-of-hearing users;
+- families under stress who need quick orientation.
+
+Experience requirements:
+- plain-language entry points for essential journeys;
+- short content blocks and clear section purpose;
+- large, obvious interactive targets;
+- no time-pressure interactions;
+- reduced-motion parity;
+- predictable navigation;
+- no essential meaning carried by decorative motion;
+- icon + text where icons materially aid comprehension;
+- future audio and strategic Libras support as governed enhancements;
+- no separate, inferior "accessible version".
+
+The preferred pattern is universal accessible design with optional supportive modalities.
