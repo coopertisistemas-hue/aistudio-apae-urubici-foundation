@@ -60,3 +60,20 @@ Editorial content should support cognitive accessibility through:
 - structured lists and FAQs for complex information;
 - alternative text and media descriptions;
 - captions/transcripts for audiovisual content.
+
+
+## Protagonism and family framing
+
+Content must prefer:
+- voice over representation-by-others;
+- agency over passivity;
+- ability/talent/choice over deficit framing;
+- belonging over charity;
+- practical orientation for families over institutional jargon;
+- rights and participation over pity.
+
+Future participant stories must be consent-governed and center the person's own voice whenever possible.
+
+Family is a primary audience and a cross-cutting content axis.
+
+"Acontece na APAE" should become the future living editorial layer for validated news, events, campaigns, culture, sport, activities and community moments.
