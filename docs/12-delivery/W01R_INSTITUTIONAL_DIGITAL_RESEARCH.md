@@ -37,6 +37,9 @@ No research finding overrides direct institutional validation when the instituti
 
 ### Institutional history and scope
 
+Evidence class: **STRONG SECONDARY / HISTORICAL EVIDENCE**
+Source tier: secondary institutional/public-web source; verify against APAE's current statute before production.
+
 Public institutional material identifies APAE Urubici as founded on 12 October 1982 and describes purposes spanning:
 - social assistance;
 - education;
@@ -58,6 +61,9 @@ Publication rule:
 
 ### Health and rehabilitation
 
+Evidence class: **STRONG SECONDARY EVIDENCE**
+Source tier: CNES-derived secondary source; authoritative registry should be preferred when directly available.
+
 Current CNES-derived data identifies APAE de Urubici under CNES 5420660 at Rua Clarismundo José Custódio, 980, Urubici/SC, with public-health establishment data current to August 2026.
 
 Secondary CNES-derived source:
@@ -69,6 +75,9 @@ Publication rule:
 
 ### Social assistance / SUAS
 
+Evidence class: **CONFIRMED PUBLIC EVIDENCE**
+Source tier: official Santa Catarina state-government documentation.
+
 Santa Catarina CEAS public documentation identifies APAE Urubici (CNPJ 75.325.068/0001-40) as a beneficiary unit associated with the:
 "Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas Famílias".
 
@@ -79,6 +88,9 @@ This makes social assistance and family support a strongly evidenced current axi
 
 ### Municipal network integration
 
+Evidence class: **CONFIRMED PUBLIC EVIDENCE**
+Source tier: official Municipality of Urubici documentation.
+
 Urubici municipal records show Convention 009/2026, published 22 July 2026, for the transfer of use of a municipal vehicle to APAE Urubici for exclusive transport of multidisciplinary teams and users referred to the special social-protection network within SUAS.
 
 Source:
@@ -87,6 +99,11 @@ https://www.urubici.sc.gov.br/leis
 This supports a current narrative of articulation with the municipal protection network.
 
 ### Art, culture and talents
+
+Evidence class: **CONFIRMED PUBLIC / EVENT EVIDENCE**
+Source tier: official Municipality of Urubici communication.
+
+This supports documented cultural participation, but not a blanket claim that every art/culture service remains continuously active today.
 
 Municipal communication documents APAE Urubici participation in Festival Nossa Arte, including artistic preparation and representation beyond the municipality.
 
@@ -105,6 +122,7 @@ Proposed communication axes for validation:
 
 1. **Education and Development**
    Learning, development, pedagogical support and individual potential.
+   **Gate:** statutory basis only at this stage; current delivery model and school relationship remain unconfirmed.
 
 2. **Health and Rehabilitation**
    Multidisciplinary support, rehabilitation, wellbeing and autonomy, integrated with the public-health network where applicable.
@@ -138,7 +156,11 @@ These axes are a research-backed content architecture proposal. They are not yet
 - current board/leadership;
 - current partner list;
 - current donation methods and bank/PIX data;
-- current media approval/consent inventory.
+- current media approval/consent inventory;
+- CNPJ and other institutional identifiers before production display;
+- current official street address before production display;
+- founding date against the current APAE-held statute before production display;
+- consent/authorization for any named individual discovered in public sources, even when already publicly mentioned elsewhere.
 
 ## Social-media research requirement
 
@@ -203,3 +225,14 @@ Production-grade institutional content requires:
 3. media-rights review;
 4. accessibility/content review;
 5. Foundation update.
+
+
+## Live proposal deployment verification
+
+Any publicly reachable W01P deployment must be explicitly verified for:
+- `noindex, nofollow`;
+- visible proposal/non-production labeling;
+- no production-only institutional claims;
+- no accidental canonical production metadata.
+
+Verification must be repeated after deploy changes that affect HTML metadata or routing.
