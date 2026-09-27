@@ -27,6 +27,8 @@ Canonical map of the APAE Urubici Foundation. Authority order and product contex
 - [Content Taxonomy](03-information-architecture/CONTENT_TAXONOMY.md)
 
 ## 04 — Design System
+
+- [Brand Identity](04-design-system/BRAND_IDENTITY.md)
 - [Design Principles](04-design-system/DESIGN_PRINCIPLES.md)
 - [Color System](04-design-system/COLOR_SYSTEM.md) · *provisional (DD-20)*
 - [Typography](04-design-system/TYPOGRAPHY.md) · *provisional (DD-21)*
@@ -42,6 +44,8 @@ Canonical map of the APAE Urubici Foundation. Authority order and product contex
 - [Premium UX Acceptance](05-ux/PREMIUM_UX_ACCEPTANCE.md)
 
 ## 06 — Content
+
+- [Multilingual Content Standard](06-content/MULTILINGUAL_CONTENT.md)
 - [Content Strategy](06-content/CONTENT_STRATEGY.md)
 - [Editorial Model](06-content/EDITORIAL_MODEL.md)
 - [Voice and Tone](06-content/VOICE_AND_TONE.md)
