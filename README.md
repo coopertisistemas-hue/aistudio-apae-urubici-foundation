@@ -26,6 +26,19 @@ See [docs/INDEX.md](docs/INDEX.md) for the full map of Foundation documents. Def
 
 **W00C — Independently Audited Foundation Baseline**
 
+## Active wave
+
+**W01 — Institutional Validation and Content Acquisition**
+
+Operational W01 artifacts:
+- `docs/12-delivery/W01_INSTITUTIONAL_VALIDATION_PLAN.md`
+- `docs/12-delivery/W01_APAE_INTERVIEW_CHECKLIST.md`
+- `docs/12-delivery/W01_VALIDATION_MATRIX.md`
+- `docs/12-delivery/W01_CONTENT_ACQUISITION_MANIFEST.md`
+- `docs/12-delivery/W01_READINESS_REPORT_TEMPLATE.md`
+
+W01 converts deferred institutional assumptions into validated evidence before W02 Design System finalization.
+
 The Foundation now covers:
 - governance and Definition of Done;
 - digital discovery and benchmark;
