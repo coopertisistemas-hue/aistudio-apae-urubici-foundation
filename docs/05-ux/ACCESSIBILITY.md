@@ -89,6 +89,27 @@ Verify:
 - form errors and instructions;
 - focus after route/modal/state transitions.
 
+## Documents and transparency accessibility
+
+Transparency and institutional documents are part of the accessibility contract.
+
+Requirements:
+- whenever feasible, publish accessible HTML alongside downloadable documents;
+- PDFs intended for public use must be tagged, searchable and structured for assistive technology;
+- preserve logical reading order, headings, lists, tables, document language and meaningful link text;
+- scanned-image-only PDFs are not acceptable as the sole public format for essential information;
+- if a legacy document cannot yet be remediated, provide an accessible summary/HTML alternative and identify the limitation;
+- downloadable statutes, reports, financial statements, notices and policies must be included in accessibility QA.
+
+## WCAG 2.2 criteria to explicitly verify
+
+In addition to the general WCAG 2.2 AA target, key journeys must explicitly verify:
+- 2.4.11 Focus Not Obscured (Minimum);
+- 2.5.8 Target Size (Minimum) — use at least a 24 x 24 CSS-pixel target or equivalent spacing exception where the criterion permits;
+- 3.2.6 Consistent Help where help mechanisms exist;
+- 3.3.7 Redundant Entry;
+- 3.3.8 Accessible Authentication (Minimum) for authentication journeys.
+
 ## Media accessibility
 
 When real APAE media is introduced:
@@ -98,7 +119,17 @@ When real APAE media is introduced:
 - controls must be keyboard accessible;
 - decorative media should not generate unnecessary screen-reader noise.
 
-Libras may be evaluated for high-value institutional content. Automated translation widgets alone do not satisfy this requirement.
+## Libras and deaf access
+
+Libras support is a planned institutional-accessibility decision, not an optional decorative widget.
+
+The production plan must evaluate:
+- which high-value institutional journeys/content require Libras;
+- whether human-produced Libras video is appropriate;
+- caption quality and transcript availability;
+- legal and institutional context under Brazilian accessibility and Libras requirements, including Lei 10.436/2002 and Decreto 5.626/2005.
+
+Automated translation widgets alone do not satisfy accessibility or institutional-quality requirements.
 
 ## Multilingual accessibility
 
@@ -141,6 +172,8 @@ Before production certification, key journeys require:
 - reduced-motion review;
 - multilingual selector review;
 - form validation/error review;
-- manual review by people familiar with disability/accessibility needs where feasible.
+- manual review by people familiar with disability/accessibility needs.
+
+For key public journeys, production certification must include planned validation with users and/or reviewers with relevant assistive-technology, cognitive-accessibility or disability expertise; this is not optional when the journey is essential.
 
 Accessibility findings are release blockers when they prevent access to essential institutional information or key journeys.
