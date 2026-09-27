@@ -33,8 +33,8 @@ Approved social proof. No unmoderated content.
 ## 7. APAE news
 Latest institutional publications.
 
-## 8. Inclusion & Human Development
-Curated editorial bridge to Portal Urubici for this axis. Any specific Portal editorial identity referenced for this axis (e.g. "Aline Liz") must be validated for identity, ownership and approval-to-surface before implementation (see Deferred Decisions Register: DD-10). Until validated, surface Portal content generically by the Inclusion & Human Development tag/approval only.
+## 8. Portal Editorial — Inclusion & Human Development
+This is a curated editorial bridge to Portal Urubici, not an APAE service area and not the same taxonomy as the institutional axis `Rights, Autonomy and Inclusion`. Any specific Portal editorial identity referenced for this axis (e.g. "Aline Liz") must be validated for identity, ownership and approval-to-surface before implementation (see Deferred Decisions Register: DD-10). Until validated, surface Portal content generically by the Inclusion & Human Development tag/approval only.
 
 ## 9. How to help
 Donation, volunteering, partnership and advocacy/sharing paths.
