@@ -14,11 +14,11 @@ Owner legend: `APAE` (institutional validation) · `DESIGN` (design-system autho
 |----|----------|-------|--------|--------|
 | DD-01 | Official brand assets / final institutional approval of revitalized digital logo | APAE / DESIGN | OPEN | Supplied APAE Urubici logo received as W01P source reference; BRAND_IDENTITY |
 | DD-02 | Current leadership (diretoria) identities and roles | APAE | OPEN | README; ADMIN_ARCHITECTURE; sitemap `/apae/diretoria` |
-| DD-03 | Current service / areas-of-work inventory | APAE | OPEN | PRODUCT_SCOPE; HOMEPAGE_SPEC §4 |
+| DD-03 | Current service / areas-of-work inventory | APAE | OPEN | W01R public evidence supports six validation axes; exact current service catalogue still requires APAE confirmation |
 | DD-04 | Validated impact indicators (numbers) | APAE | OPEN | HOMEPAGE_SPEC §3; VOICE_AND_TONE |
 | DD-05 | Official partners list and recognition scope | APAE | OPEN | PARTNERS module; HOMEPAGE_SPEC §11 |
 | DD-06 | Donation/payment institutional details (accounts, PIX, provider accounts) | APAE / PLATFORM | OPEN | DONATIONS; PAYMENTS |
-| DD-07 | Approved images/video and consent/rights provenance | APAE / LEGAL | OPEN | IMAGERY_AND_VIDEO; DIGITAL_INVENTORY |
+| DD-07 | Approved images/video and consent/rights provenance | APAE / LEGAL | OPEN | W01R requires social/media inventory and explicit reuse/consent review before production publication |
 | DD-08 | Transparency documents approved for public disclosure | APAE | OPEN | TRANSPARENCY module |
 | DD-09 | Final provider/account choices (payment, email, social, WhatsApp) | APAE / PLATFORM | OPEN | INTEGRATION_CONTRACTS |
 | DD-10 | Portal Urubici editorial identities referenced in specs (e.g. the "Aline Liz" content axis) — confirm identity, ownership and approval-to-surface | APAE | OPEN | HOMEPAGE_SPEC §8 |
