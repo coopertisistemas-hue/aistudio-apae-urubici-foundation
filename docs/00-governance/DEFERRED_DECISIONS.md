@@ -12,7 +12,7 @@ Owner legend: `APAE` (institutional validation) · `DESIGN` (design-system autho
 
 | ID | Decision | Owner | Status | Source |
 |----|----------|-------|--------|--------|
-| DD-01 | Official brand assets (logo, brand kit) | APAE / DESIGN | OPEN | README; W00B closure |
+| DD-01 | Official brand assets / final institutional approval of revitalized digital logo | APAE / DESIGN | OPEN | Supplied APAE Urubici logo received as W01P source reference; BRAND_IDENTITY |
 | DD-02 | Current leadership (diretoria) identities and roles | APAE | OPEN | README; ADMIN_ARCHITECTURE; sitemap `/apae/diretoria` |
 | DD-03 | Current service / areas-of-work inventory | APAE | OPEN | PRODUCT_SCOPE; HOMEPAGE_SPEC §4 |
 | DD-04 | Validated impact indicators (numbers) | APAE | OPEN | HOMEPAGE_SPEC §3; VOICE_AND_TONE |
@@ -30,8 +30,8 @@ Owner legend: `APAE` (institutional validation) · `DESIGN` (design-system autho
 
 | ID | Decision | Owner | Status | Source |
 |----|----------|-------|--------|--------|
-| DD-20 | Final color palette / tokens | DESIGN | OPEN | COLOR_SYSTEM (PROVISIONAL) |
-| DD-21 | Final typography families | DESIGN | OPEN | TYPOGRAPHY (PROVISIONAL) |
+| DD-20 | Final color palette / tokens | DESIGN | OPEN | Logo-derived W01P proposal palette defined in COLOR_SYSTEM; final W02 freeze pending |
+| DD-21 | Final typography families | DESIGN | OPEN | Fraunces + Manrope adopted for W01P proposal; final W02 approval pending |
 | DD-22 | Spacing/grid token freeze | DESIGN | OPEN | SPACING_AND_GRID |
 | DD-23 | Final visual direction and content architecture approval | DESIGN / APAE | OPEN | ROADMAP W02 |
 
